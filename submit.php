@@ -15,8 +15,8 @@ if($response['success'] == false){
   echo "<h2>Please check the the captcha form.</h2>";
 } else {
 	$servername = "localhost";
-	$dbusername = "toor";
-	$dbpassword = "19711Login";
+	$dbusername = "[USERNAME]";
+	$dbpassword = "[PASSWORD]";
 	$dbname = "HydroMail";
 	
 	// Create connection
