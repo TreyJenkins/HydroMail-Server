@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "toor";
-$password = "19711Login";
+$username = "[USERNAME]";
+$password = "[PASSWORD]";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, "HydroMail");
